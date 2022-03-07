@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodelabHospedagens", "CodelabHospedagens.csproj", "{F7BC6B60-F59F-4954-AC2B-203E90B6805E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D0B42F29-5A30-40E8-A6AE-1C5301AF4D41} = {D0B42F29-5A30-40E8-A6AE-1C5301AF4D41}
+		{A4C2F7E4-C983-428A-A32D-7974813F72AF} = {A4C2F7E4-C983-428A-A32D-7974813F72AF}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{2E91C3D2-4CD8-4666-ADD8-F73A66E8FB2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Service", "2 - Service", "{6BB5DCCE-33C7-4719-AEAB-C772E80A8FAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{8D20B9A4-04CF-4986-ABE8-C52E315D8379}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{4CF36C36-929A-4AC0-BF88-734C1608F06A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{90D68E55-56B4-49DF-BD47-94FDCBF2E7E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodelabHospedagens.Tests", "..\CodelabHospedagens.Tests\CodelabHospedagens.Tests.csproj", "{4DD250A5-F7F9-47DA-9AB4-E0056D740036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodelabHospedagens.Domain", "..\CodelabHospedagens.Domain\CodelabHospedagens.Domain.csproj", "{A4C2F7E4-C983-428A-A32D-7974813F72AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodelabHospedagens.Service", "..\CodelabHospedagens.Service\CodelabHospedagens.Service.csproj", "{D0B42F29-5A30-40E8-A6AE-1C5301AF4D41}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6D5B7AE3-904C-4AA9-B620-142ECDB32395} = {6D5B7AE3-904C-4AA9-B620-142ECDB32395}
+		{A4C2F7E4-C983-428A-A32D-7974813F72AF} = {A4C2F7E4-C983-428A-A32D-7974813F72AF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodelabHospedagens.Infra", "..\CodelabHospedagens.Infra\CodelabHospedagens.Infra.csproj", "{6D5B7AE3-904C-4AA9-B620-142ECDB32395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BC6B60-F59F-4954-AC2B-203E90B6805E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BC6B60-F59F-4954-AC2B-203E90B6805E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BC6B60-F59F-4954-AC2B-203E90B6805E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BC6B60-F59F-4954-AC2B-203E90B6805E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD250A5-F7F9-47DA-9AB4-E0056D740036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD250A5-F7F9-47DA-9AB4-E0056D740036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD250A5-F7F9-47DA-9AB4-E0056D740036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD250A5-F7F9-47DA-9AB4-E0056D740036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C2F7E4-C983-428A-A32D-7974813F72AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C2F7E4-C983-428A-A32D-7974813F72AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C2F7E4-C983-428A-A32D-7974813F72AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C2F7E4-C983-428A-A32D-7974813F72AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B42F29-5A30-40E8-A6AE-1C5301AF4D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B42F29-5A30-40E8-A6AE-1C5301AF4D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B42F29-5A30-40E8-A6AE-1C5301AF4D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B42F29-5A30-40E8-A6AE-1C5301AF4D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5B7AE3-904C-4AA9-B620-142ECDB32395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5B7AE3-904C-4AA9-B620-142ECDB32395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5B7AE3-904C-4AA9-B620-142ECDB32395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5B7AE3-904C-4AA9-B620-142ECDB32395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7BC6B60-F59F-4954-AC2B-203E90B6805E} = {2E91C3D2-4CD8-4666-ADD8-F73A66E8FB2B}
+		{4DD250A5-F7F9-47DA-9AB4-E0056D740036} = {90D68E55-56B4-49DF-BD47-94FDCBF2E7E6}
+		{A4C2F7E4-C983-428A-A32D-7974813F72AF} = {8D20B9A4-04CF-4986-ABE8-C52E315D8379}
+		{D0B42F29-5A30-40E8-A6AE-1C5301AF4D41} = {6BB5DCCE-33C7-4719-AEAB-C772E80A8FAC}
+		{6D5B7AE3-904C-4AA9-B620-142ECDB32395} = {4CF36C36-929A-4AC0-BF88-734C1608F06A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B3BAFBA-F4D2-4C4A-B861-B5ECA0A38612}
+	EndGlobalSection
+EndGlobal

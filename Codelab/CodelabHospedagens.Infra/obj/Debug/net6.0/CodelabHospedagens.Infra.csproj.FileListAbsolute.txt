@@ -1,0 +1,15 @@
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.csproj.AssemblyReference.cache
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.AssemblyInfoInputs.cache
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.AssemblyInfo.cs
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.csproj.CoreCompileInputs.cache
+C:\Codelab\CodelabHospedagens.Infra\bin\Debug\net6.0\CodelabHospedagens.Infra.deps.json
+C:\Codelab\CodelabHospedagens.Infra\bin\Debug\net6.0\CodelabHospedagens.Infra.dll
+C:\Codelab\CodelabHospedagens.Infra\bin\Debug\net6.0\CodelabHospedagens.Infra.pdb
+C:\Codelab\CodelabHospedagens.Infra\bin\Debug\net6.0\CodelabHospedagens.Domain.dll
+C:\Codelab\CodelabHospedagens.Infra\bin\Debug\net6.0\CodelabHospedagens.Domain.pdb
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.csproj.CopyComplete
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.dll
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\refint\CodelabHospedagens.Infra.dll
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\CodelabHospedagens.Infra.pdb
+C:\Codelab\CodelabHospedagens.Infra\obj\Debug\net6.0\ref\CodelabHospedagens.Infra.dll

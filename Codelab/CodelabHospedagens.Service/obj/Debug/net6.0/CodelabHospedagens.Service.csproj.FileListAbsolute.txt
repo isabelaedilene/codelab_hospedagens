@@ -1,0 +1,15 @@
+C:\Codelab\CodelabHospedagens.Service\bin\Debug\net6.0\CodelabHospedagens.Service.deps.json
+C:\Codelab\CodelabHospedagens.Service\bin\Debug\net6.0\CodelabHospedagens.Service.dll
+C:\Codelab\CodelabHospedagens.Service\bin\Debug\net6.0\CodelabHospedagens.Service.pdb
+C:\Codelab\CodelabHospedagens.Service\bin\Debug\net6.0\CodelabHospedagens.Domain.dll
+C:\Codelab\CodelabHospedagens.Service\bin\Debug\net6.0\CodelabHospedagens.Domain.pdb
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.csproj.AssemblyReference.cache
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.AssemblyInfoInputs.cache
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.AssemblyInfo.cs
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.csproj.CoreCompileInputs.cache
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.csproj.CopyComplete
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.dll
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\refint\CodelabHospedagens.Service.dll
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\CodelabHospedagens.Service.pdb
+C:\Codelab\CodelabHospedagens.Service\obj\Debug\net6.0\ref\CodelabHospedagens.Service.dll

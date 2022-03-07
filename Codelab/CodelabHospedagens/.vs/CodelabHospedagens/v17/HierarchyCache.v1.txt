@@ -1,0 +1,244 @@
+﻿++Solução 'CodelabHospedagens' ‎(5 de 5 projetos)
+i:{00000000-0000-0000-0000-000000000000}:CodelabHospedagens.sln
+++1 - Application
+i:{00000000-0000-0000-0000-000000000000}:1 - Application
+++CodelabHospedagens
+i:{2e91c3d2-4cd8-4666-add8-f73a66e8fb2b}:CodelabHospedagens
+++Connected Services 
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:>859
+++Dependências
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:>858
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:>729
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:>730
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:>731
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>732
+++Properties
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\properties\
+++Controllers
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\controllers\
+++ChaleController.cs
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\controllers\chalecontroller.cs
+++ClienteController.cs
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\controllers\clientecontroller.cs
+++HospedagemController.cs
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\controllers\hospedagemcontroller.cs
+++appsettings.json
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\appsettings.json
+++Program.cs
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\program.cs
+++Nenhuma dependência de serviço descoberta
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:>860
+++Analisadores
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:analisadores
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:analisadores
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:analisadores
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:analisadores
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:analisadores
+++Estruturas
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:estruturas
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:estruturas
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:estruturas
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:estruturas
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:estruturas
+++Pacotes
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:pacotes
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:pacotes
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:pacotes
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:pacotes
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:pacotes
+++Projetos
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:projetos
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:projetos
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:projetos
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:projetos
+++launchSettings.json
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\properties\launchsettings.json
+++appsettings.Development.json
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens\microsoft.netcore.app
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\microsoft.netcore.app
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\microsoft.netcore.app
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\microsoft.netcore.app
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:c:\codelab\codelabhospedagens.tests\microsoft.netcore.app
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.2)
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:>937
+++Newtonsoft.Json (13.0.1)
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:>936
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:>890
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:>877
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:>899
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>881
+++Swashbuckle.AspNetCore (6.2.3)
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:>935
+++CodelabHospedagens.Infra
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens.infra\bin\debug\net6.0\codelabhospedagens.infra.dll
+i:{4cf36c36-929a-4ac0-bf88-734c1608f06a}:CodelabHospedagens.Infra
+++CodelabHospedagens.Service
+i:{f7bc6b60-f59f-4954-ac2b-203e90b6805e}:c:\codelab\codelabhospedagens.service\bin\debug\net6.0\codelabhospedagens.service.dll
+i:{6bb5dcce-33c7-4719-aeab-c772e80a8fac}:CodelabHospedagens.Service
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:c:\codelab\codelabhospedagens.service\codelabhospedagens.service.csproj
+++2 - Service
+i:{00000000-0000-0000-0000-000000000000}:2 - Service
+++ChaleCommand
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\chalecommand\
+++ChaleDto.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\chalecommand\chaledto.cs
+++ChaleService.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\chalecommand\chaleservice.cs
+++IChaleService.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\chalecommand\ichaleservice.cs
+++ClienteCommand
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\clientecommand\
+++ClienteDto.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\clientecommand\clientedto.cs
+++ClienteService.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\clientecommand\clienteservice.cs
+++IClienteService.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\clientecommand\iclienteservice.cs
+++HospedagemCommand
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\hospedagemcommand\
+++HospedagemDto.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\hospedagemcommand\hospedagemdto.cs
+++HospedagemReservaDto.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\hospedagemcommand\hospedagemreservadto.cs
+++HospedagemService.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\hospedagemcommand\hospedagemservice.cs
+++IHospedagemService.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\hospedagemcommand\ihospedagemservice.cs
+++Mapeamentos
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\mapeamentos\
+++ChaleConversor.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\mapeamentos\chaleconversor.cs
+++ClienteConversor.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\mapeamentos\clienteconversor.cs
+++HospedagemConversor.cs
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.service\mapeamentos\hospedagemconversor.cs
+++CodelabHospedagens.Domain
+i:{d0b42f29-5a30-40e8-a6ae-1c5301af4d41}:c:\codelab\codelabhospedagens.domain\codelabhospedagens.domain.csproj
+i:{8d20b9a4-04cf-4986-abe8-c52e315d8379}:CodelabHospedagens.Domain
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.domain\codelabhospedagens.domain.csproj
+++3 - Domain
+i:{00000000-0000-0000-0000-000000000000}:3 - Domain
+++ChaleAggregate
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\chaleaggregate\
+++Chale.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\chaleaggregate\chale.cs
+++IChaleRepository.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\chaleaggregate\ichalerepository.cs
+++Item.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\chaleaggregate\item.cs
+++ClienteAggregate
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\clienteaggregate\
+++Cliente.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\clienteaggregate\cliente.cs
+++Endereco.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\clienteaggregate\endereco.cs
+++Telefone.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\clienteaggregate\telefone.cs
+++HospedagemAggregate
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\hospedagemaggregate\
+++Hospedagem.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\hospedagemaggregate\hospedagem.cs
+++IHospedagemRepository.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\hospedagemaggregate\ihospedagemrepository.cs
+++Servico.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\hospedagemaggregate\servico.cs
+++SeedWork
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\seedwork\
+++IAggregateRoot.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\seedwork\iaggregateroot.cs
+++IConversor.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\seedwork\iconversor.cs
+++IRepository.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\seedwork\irepository.cs
+++IUnitOfWork.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\seedwork\iunitofwork.cs
+++RespostaGenerica.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\seedwork\respostagenerica.cs
+++ValueObject.cs
+i:{a4c2f7e4-c983-428a-a32d-7974813f72af}:c:\codelab\codelabhospedagens.domain\seedwork\valueobject.cs
+++4 - Infra
+i:{00000000-0000-0000-0000-000000000000}:4 - Infra
+++DataBaseSettings
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\databasesettings\
+++Repository
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\repository\
+++ChaleRepository.cs
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\repository\chalerepository.cs
+++ClienteRepository.cs
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\repository\clienterepository.cs
+++HospedagemRepository.cs
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\repository\hospedagemrepository.cs
+++DbSession.cs
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\databasesettings\dbsession.cs
+++Settings.cs
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\databasesettings\settings.cs
+++UnitOfWork.cs
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:c:\codelab\codelabhospedagens.infra\databasesettings\unitofwork.cs
+++Dapper (2.0.123)
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:>901
+++MySql.Data (8.0.28)
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:>903
+++Slapper.AutoMapper (2.0.5)
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:>900
+++System.Data.SqlClient (4.8.3)
+i:{6d5b7ae3-904c-4aa9-b620-142ecdb32395}:>902
+++Tests
+i:{00000000-0000-0000-0000-000000000000}:Tests
+++CodelabHospedagens.Tests
+i:{90d68e55-56b4-49df-bd47-94fdcbf2e7e6}:CodelabHospedagens.Tests
+++ClienteServiceUnitTests.cs
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:c:\codelab\codelabhospedagens.tests\clienteserviceunittests.cs
+++xunit.analyzers
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:c:\users\isabe\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++AutoFixture (4.17.0)
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>880
+++coverlet.collector (3.1.0)
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>886
+++FluentAssertions (6.5.1)
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>882
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>879
+++Moq (4.17.2)
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>885
+++xunit (2.4.1)
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>883
+++xunit.runner.visualstudio (2.4.3)
+i:{4dd250a5-f7f9-47da-9ab4-e0056d740036}:>884
